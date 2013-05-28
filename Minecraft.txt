@@ -1,0 +1,66 @@
+{
+	"name": "Minecraft",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "Xbox",
+			"binds": {
+				"axi 5 +": [
+					"mbt 0"
+				],
+				"axi 2 +": [
+					"mbt 1"
+				],
+				"btn 4": [
+					"mbt 0",
+					"whs 1 -"
+				],
+				"btn 9": [
+					"key 41"
+				],
+				"btn 10": [
+					"key 69"
+				],
+				"btn 3": [
+					"key 8"
+				],
+				"btn 5": [
+					"whs 1 +"
+				],
+				"btn 2": [
+					"key 225"
+				],
+				"btn 1": [
+					"key 20"
+				],
+				"axi 0 -": [
+					"key 4"
+				],
+				"btn 0": [
+					"key 44"
+				],
+				"axi 1 -": [
+					"key 26"
+				],
+				"axi 3 +": [
+					"mou 0 + 13"
+				],
+				"axi 0 +": [
+					"key 7"
+				],
+				"axi 1 +": [
+					"key 22"
+				],
+				"axi 3 -": [
+					"mou 0 - 12"
+				],
+				"axi 4 +": [
+					"mou 1 + 13"
+				],
+				"axi 4 -": [
+					"mou 1 - 12"
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "Super Meat Boy",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"btn 0": [
+					"key 44"
+				],
+				"btn 2": [
+					"key 41"
+				],
+				"btn 1": [
+					"key 225"
+				],
+				"axi 1 -": [
+					"key 82"
+				],
+				"axi 0 +": [
+					"key 79"
+				],
+				"axi 1 +": [
+					"key 81"
+				],
+				"axi 0 -": [
+					"key 80"
+				],
+				"btn 3": [
+					"key 26"
+				],
+				"btn 4": [
+					"key 311"
+				],
+				"btn 5": [
+					"key 312"
+				],
+				"axi 2 -": [
+					"key 308"
+				],
+				"axi 5 -": [
+					"key 310"
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Voxatron",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"btn 13": [
+					"key 4"
+				],
+				"btn 14": [
+					"key 7"
+				],
+				"btn 0": [
+					"key 4",
+					"key 44"
+				],
+				"btn 2": [
+					"key 27"
+				],
+				"btn 11": [
+					"key 26"
+				],
+				"btn 12": [
+					"key 22"
+				],
+				"axi 5 -": [
+					"key 27"
+				]
+			}
+		}
+	]
+}

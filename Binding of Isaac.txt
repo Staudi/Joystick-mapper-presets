@@ -1,0 +1,65 @@
+{
+	"name": "Binding of Isaac",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "Dpad are arrow keys and face Buttons ZXC and etc...",
+			"binds": {
+				"btn 11": [
+					"key 26"
+				],
+				"btn 12": [
+					"key 22"
+				],
+				"btn 13": [
+					"key 4"
+				],
+				"btn 14": [
+					"key 7"
+				],
+				"axi 1 -": [
+					"key 26"
+				],
+				"axi 1 +": [
+					"key 22"
+				],
+				"axi 0 -": [
+					"key 4"
+				],
+				"axi 0 +": [
+					"key 7"
+				],
+				"btn 9": [
+					"key 41"
+				],
+				"btn 8": [
+					"key 40"
+				],
+				"axi 4 -": [
+					"key 82"
+				],
+				"axi 4 +": [
+					"key 81"
+				],
+				"axi 3 -": [
+					"key 80"
+				],
+				"axi 3 +": [
+					"key 79"
+				],
+				"btn 4": [
+					"key 44"
+				],
+				"btn 5": [
+					"key 20"
+				],
+				"btn 0": [
+					"key 8"
+				],
+				"btn 10": [
+					"key 69"
+				]
+			}
+		}
+	]
+}

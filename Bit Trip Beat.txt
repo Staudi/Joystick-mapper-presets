@@ -1,0 +1,14 @@
+{
+	"name": "Bit Trip Beat",
+	"tag": "",
+	"joysticks": [
+		{
+			"tag": "Write here a tag to identify anything you want",
+			"binds": {
+				"btn 5": [
+					"key 49"
+				]
+			}
+		}
+	]
+}
